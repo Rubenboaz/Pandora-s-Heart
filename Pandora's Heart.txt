@@ -1,0 +1,20 @@
+Titel: Pandora's Heart (obviously)
+
+Pandora's Heart heeft een beetje een betrekking op de legende uit de Griekse mythologie. 
+Hier was een vrouw, geschapen door de Griekse goden die de zogenaamde Pandora's box opende, 
+hierin zat al het kwaade van de wereld. De box was eigenlijk een soort kruik waar
+wijn, olie, graan en andere voorraden in zaten die toen redelijk wat waard waren.
+
+Wat wordt hier nu eigenlijk mee bedoeld? Eigenlijk betekent het dus dat een Pandora een vrouw is die 
+beter (of sterker) is dan normale mensen, maar hierdoor wel op het randje tussen leven en dood loopt.
+
+Wat heeft dit met de game te maken?
+Ik wil in de game een soort Hearts toevoegen waarmee je tijdelijk bepaalde krachten krijgt, zoals bijvoorbeeld sneller rennen.
+Maar dit zou niet een Pandora's Heart zijn als er niet iets negatiefs aan vast zat. De Hearts geven je ook een soort gif,
+als je te veel van dit gif hebt kan het je slechter of zelfs dood maken. Dit zou het spel een interessante wending moeten geven.
+
+Als eventueel extraatje zou het mogelijk zijn om sommige Hearts te markeren als Pandora's box, visueel (dus voor de spelers)
+zien ze er hetzelfde uit, maar zodra je Pandora's Box opent spawnen er monsters op de map en kunnen we eventueel visuele effecten toevoegen
+zoals zwart-wit beeld, want zo'n box kom je natuurlijk niet vaak tegen (ik denk 1x per potje ofzoiets).
+
+Ohh de spelers zijn waarschijnlijk wel mannen btw, of ze worden random gekozen / door de spelers gekozen.

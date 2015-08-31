@@ -1,0 +1,30 @@
+Projectsleider: Nathan
+
+Analyser: Jasper
+Designer: Ruben
+Programmer: Nathan
+
+Robbert: Dit is een aparte rol,
+Robbert moet de regeling tussen tester en programmer regelen (de bugs die de tester vermeld omzetten zodat het probleem makkelijker opgezocht kan worden in de code).
+Daarnaast moet hij ook de regeling tussen Designer en programmer regelen (de designs moeten wel bruikbaar zijn in de game).
+Daarnaast zou hij eventueel nog aanvullende code kunnen regelen.
+
+Nathan: Programmeren en leiding geven.
+Jasper: Creativiteit & textueelvaardig.
+Ruben: Kan goed luisteren en leergierig.
+Robbert: jack off all trades master of none.
+
+Nathan: Obsessief
+Jasper: Programmeren
+Ruben: Programmeren
+Robbert: Alles op het laatst doen
+
+Communicatie:
+Teamviewer
+Github
+Skype
+WhatsApp
+
+Valkuilen:
+Nathan doet te veel
+Tijdnood
