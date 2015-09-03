@@ -18,12 +18,17 @@ Probleem oplossen:
 http://stackoverflow.com/
 http://forum.unity3d.com/
 
+<<<<<<< HEAD
 Github:
 https://github.com/TheNLGhost/Pandora-s-Heart.git
 https://desktop.github.com/
 https://git-for-windows.github.io/
 
 Communicatie:
+=======
+Communicatie:
+https://github.com/TheNLGhost/Pandora-s-Heart
+>>>>>>> origin/master
 https://www.teamviewer.com/nl/index.aspx
 http://www.skype.com/nl/
 https://web.whatsapp.com/
