@@ -1,0 +1,34 @@
+Gamedoelen:
+Een Multiplayer FPS game maken waar je aan het eind van de game aan de hand van scores ziet wie het beste is.
+Je kan punten halen door vijanden te vermoorden, teamgenoten te wreken en assisten te maken.
+Je kan punten verliezen door verkeerd met Pandora's Heart om te gaan (ofwel doodgaan aan het gif kosten je punten).
+(Dit is een "maybe") Als je monsters spawned maar niet door ze vermoord wordt verdien je ook punten (met een eventueel award genaamd 'Strategic Spawning').
+
+Must's (abosulute minimale):
+- …Èn speelbare map (het liefst twee)
+- Standaard class (pistool met assault rifle) (verschillende wapens voor beide teams)
+- …Èn poppetje design
+- …Èn speelmode (team Deathmatch?)
+- Multiplayer
+- GUI voor buiten de game (je moet makkelijk kunnen navigeren)
+- Pandora's Heart items (en natuurlijk de effecten)
+- Geluiden
+- Muziek
+
+Maybe's:
+- Extra mappen
+- Extra speelmodes
+- Singleplayer mode
+- PVE mode
+- Co-op mode
+- Achievements
+- Level systeem (je level wordt opgeslagen op de computer)
+- Iets speciaals (ik weet niet of je het een Easter Egg kan noemen maar dat zien we dan wel)
+- Meerdere poppetjes design (een team bestaat uit (waarschijnlijk) maximaal zes man, dus het zou mooi zijn als we drie of zes verschillende designs per team kunnen krijgen).
+- Meerdere wapens (en dus classes)
+- Het kunnen wisselen van class tijdens het potje
+- Communiceren (een chat)
+- Meerdere ideeÎn kunnen tijdens de verdere ontwikkeling komen
+
+Voel je vrij om dingen toe te voegen bij de Maybe's.
+Bij de Must's geldt hetzelfde maar dit moeten echt de Must's zijn, dus voeg alleen iets toe als je denkt dat ik een basis element ben vergeten.
