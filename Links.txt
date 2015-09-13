@@ -18,20 +18,22 @@ Probleem oplossen:
 http://stackoverflow.com/
 http://forum.unity3d.com/
 
-<<<<<<< HEAD
 Github:
 https://github.com/TheNLGhost/Pandora-s-Heart.git
 https://desktop.github.com/
 https://git-for-windows.github.io/
 
 Communicatie:
-=======
-Communicatie:
 https://github.com/TheNLGhost/Pandora-s-Heart
 >>>>>>> origin/master
 https://www.teamviewer.com/nl/index.aspx
 http://www.skype.com/nl/
 https://web.whatsapp.com/
+
+C++ (een (optionele) taal om mee in Unity te werken):
+https://www.youtube.com/playlist?list=PLrjEQvEart7dezh2ObeI1S7L2YDZdIT9T
+https://www.youtube.com/playlist?list=PLSPw4ASQYyynKPY0I-QFHK0iJTjnvNUys
+https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW
 
 - Meer links zullen later toegevoegd worden.
 - Ik (Nathan) ben niet bekend met de meeste links die ik heb geplaatst. Sommige zijn mij aangeraden en andere heb ik zelf gegoogled. Ik zal zo snel mogelijk alles checken.

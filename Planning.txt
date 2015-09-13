@@ -1,4 +1,4 @@
-Probeer alles een dag voor de deadline af te hebben, dit geldt vooral als de deadline op een maandag of donderdag is want dan moet je het presenteren in je groep tijdens de les.
+﻿Probeer alles een dag voor de deadline af te hebben, dit geldt vooral als de deadline op een maandag of donderdag is want dan moet je het presenteren in je groep tijdens de les.
 Als je ergens eerder mee klaar bent mag je altijd beginnen met het volgende wat gepland staat, hoe meer we voorlopen hoe meer tijdsspeling we hebben. Als je iets samen moet doen moet je natuurlijk wel overleggen met de ander als je vooruitwerkt.
 Ben je het niet eens met de takenverdeling? Meld het! De planner kan altijd gewijzigd worden.
 Kan je een deadline niet halen? Dit is jammer maar zolang het niet te vaak gebeurd is het geen probleem, zolang er maar 'uitloopweken' zijn.
@@ -11,8 +11,8 @@ Vrijdag 18 september - Keuze muziek/geluid af (Ruben & Robbert muziek & geluiden
 Vrijdag 25 september - Keuze sprites deel 1 af (Robbert en Ruben) & Keuze Hoofdkarakter & vijanden helemaal af (Nathan & Jasper)
 Vrijdag 2 oktober - Keuze sprites helemaal af (Robbert en Ruben) & Game doelen + Must's en Maybe's + game doelen genoteerd (het liefst eerder af) (Nathan)
 Vrijdag 2 oktober - Verhaallijn (proloog) uit (het verhaal over hoe we in de situatie zijn gekomen) (Iedereen)
-Vrijdag 9 oktober - Eerste map af (Ruben, Robbert en eventueel ook Jasper) & Gameplay (controles) bepaalt (Nathan)
-Vrijdag 16 oktober - Tweede map af (Ruben, Robbert en eventueel ook Jasper)
+Vrijdag 9 oktober - Eerste map af (hiermee bedoel ik de schets, denk aan een soort plattegrond, de sfeer etc.) (Ruben, Robbert en eventueel ook Jasper) & Gameplay (controles) bepaalt (Nathan)
+Vrijdag 16 oktober - Tweede map af (hetzelfde als de eerste map) (Ruben, Robbert en eventueel ook Jasper)
 Woensdag 21 oktober - Ontwerp document "verslag" af (Jasper)
 Vrijdag 23 oktober - Ontwerp document inleveren
 !! Vrijdag 23 oktober - projectplan moet ingeleverd zijn (nouja de datum is niet duidelijk aangegeven, waarschijnlijk moet het eerder af zijn).

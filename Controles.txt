@@ -1,0 +1,20 @@
+Controles:
+
+De controles van de GUI zal grotendeels bestaan uit muisklikken. Misschien worden er enige 'hotkeys' toegevoegd als dat handig blijkt te zijn.
+Voor de gameplay zelf zullen de standaard controles waarschijnlijk het beste zijn (spelers zullen dit namelijk al aangewend zijn):
+
+- Loop naar voren: W
+- Loop naar achteren: S
+- Loop naar links: A
+- Loop naar rechts: D
+- Spring: Spatiebalk
+- Wisselen van wapen: Nummers (waarschijnlijk 1 en 2, misschien meer als je granaten ook mee telt) en scrollen indien mogelijk
+- Granaat: G en middelste muisknop
+- Sprinten: SHIFT
+- Kruipen/Bukken: C of CTRL
+- Chat: Enter
+- Menu: ESCAPE
+- Oppakken (van wapens en misschien ook wel granaten of iets dergelijks) en activeren (als zoiets in de game komt): F
+- Schieten: Linkermuisknop
+- Richten: Rechtermuisknop
+- Knifen: F of E
