@@ -18,3 +18,4 @@ Voor de gameplay zelf zullen de standaard controles waarschijnlijk het beste zij
 - Schieten: Linkermuisknop
 - Richten: Rechtermuisknop
 - Knifen: F of E
+Iets
